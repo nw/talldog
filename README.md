@@ -7,3 +7,5 @@ weblab test repository
 
 
 ## License
+
+MIT

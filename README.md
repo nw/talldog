@@ -10,3 +10,5 @@ class example for very tall dogs
 ## License
 
 MIT
+
+Nate, your dogs are too short
